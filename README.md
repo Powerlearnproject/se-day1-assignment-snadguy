@@ -53,4 +53,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Tell me about computers
 tell me about the revolution of computers from inception to the current models we have nowadays
 
-The eimproved prompt is necessary so as to get a concise response from AI
+The improved prompt is necessary so as to get a concise response from AI
