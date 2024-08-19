@@ -39,7 +39,7 @@ Technical Debt
 Changing requirements
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing is the yesying of individual components or modules of a software
+Unit Testing is the testing of individual components or modules of a software
 Integration testing: it tests different components 
 Axxeptance Testing: tests the entire software against user requirements to ensure it meets user needs
 
